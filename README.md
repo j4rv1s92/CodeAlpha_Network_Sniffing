@@ -21,7 +21,6 @@ Avant d'exécuter le script, assurez-vous d'avoir les éléments suivants instal
    pip install scapy
 3. Permissions Administratives : Le sniffer nécessite des droits d'administrateur pour capturer le trafic réseau. Assurez-vous d'exécuter le script avec les permissions appropriées (ex. : avec sudo sur les systèmes Unix).
 
-4. 
 ### Remarques
 - N'oubliez pas d'adapter le nom du fichier (`sniffer.py`) si votre script a un autre nom.
 - Assurez-vous d'inclure des instructions sur la manière d'exécuter le script et sur les systèmes d'exploitation pris en charge.
