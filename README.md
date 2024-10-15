@@ -24,7 +24,7 @@ Avant d'exécuter le script, assurez-vous d'avoir les éléments suivants instal
 ## Usage
 Pour exécuter le script, modifiez le nom de l'interface réseau dans le fichier source et lancez-le depuis le terminal :
 
-  - python sniffer.py
+    python sniffer.py
 
 ### Remarques
 - N'oubliez pas d'adapter le nom du fichier (`sniffer.py`) si votre script a un autre nom.
